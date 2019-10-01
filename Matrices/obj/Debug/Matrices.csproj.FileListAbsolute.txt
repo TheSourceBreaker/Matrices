@@ -1,0 +1,7 @@
+C:\Users\s199041\source\repos\Matrices\Matrices\bin\Debug\Matrices.exe.config
+C:\Users\s199041\source\repos\Matrices\Matrices\bin\Debug\Matrices.exe
+C:\Users\s199041\source\repos\Matrices\Matrices\bin\Debug\Matrices.pdb
+C:\Users\s199041\source\repos\Matrices\Matrices\obj\Debug\Matrices.csprojAssemblyReference.cache
+C:\Users\s199041\source\repos\Matrices\Matrices\obj\Debug\Matrices.csproj.CoreCompileInputs.cache
+C:\Users\s199041\source\repos\Matrices\Matrices\obj\Debug\Matrices.exe
+C:\Users\s199041\source\repos\Matrices\Matrices\obj\Debug\Matrices.pdb
